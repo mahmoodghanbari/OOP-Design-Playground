@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Core\Logging\" />
     <Folder Include="Core\Payments\" />
     <Folder Include="Core\Notifications\" />
     <Folder Include="Models\" />
