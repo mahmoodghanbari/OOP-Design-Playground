@@ -44,7 +44,7 @@ The goal is to show how even a small project can be written with enterprise-leve
 ## 🛠 How to Run
 
 ```bash
-dotnet run --project ./src/OOPPlayground
+dotnet run --project ./src/OOPPlayground/OOPPlayground
 ```
 
 ---
